@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Supervivientes</title>
+    <link href="https://supervivientes.ml/feed.xml" rel="self" />
+    <link href="https://supervivientes.ml" />
+    <updated>2022-04-04T22:44:16+00:00</updated>
+    <author>
+        <name>supervivientes</name>
+    </author>
+    <id>https://supervivientes.ml</id>
+
+    <entry>
+        <title>Marta Peñate</title>
+        <author>
+            <name>supervivientes</name>
+        </author>
+        <link href="https://supervivientes.ml/marta-penate.html"/>
+        <id>https://supervivientes.ml/marta-penate.html</id>
+            <category term="Concursantes"/>
+
+        <updated>2022-04-04T22:44:16+00:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Ainhoa Cantalapiedra</title>
+        <author>
+            <name>supervivientes</name>
+        </author>
+        <link href="https://supervivientes.ml/ainhoa-cantalapiedra.html"/>
+        <id>https://supervivientes.ml/ainhoa-cantalapiedra.html</id>
+            <category term="Concursantes"/>
+
+        <updated>2022-04-04T22:43:36+00:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Kiko Matamoros</title>
+        <author>
+            <name>supervivientes</name>
+        </author>
+        <link href="https://supervivientes.ml/kiko-matamoros.html"/>
+        <id>https://supervivientes.ml/kiko-matamoros.html</id>
+            <category term="Concursantes"/>
+
+        <updated>2022-04-04T22:42:52+00:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Nacho Palau</title>
+        <author>
+            <name>supervivientes</name>
+        </author>
+        <link href="https://supervivientes.ml/nacho-palau.html"/>
+        <id>https://supervivientes.ml/nacho-palau.html</id>
+            <category term="Concursantes"/>
+
+        <updated>2022-04-04T22:42:04+00:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Regresa Supervivientes 2022</title>
+        <author>
+            <name>supervivientes</name>
+        </author>
+        <link href="https://supervivientes.ml/regresa-supervivientes-2022.html"/>
+        <id>https://supervivientes.ml/regresa-supervivientes-2022.html</id>
+            <category term="Noticias"/>
+
+        <updated>2022-04-04T22:16:43+00:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://supervivientes.ml/media/posts/1/soon.jpg" alt="" />
+                    Siente el grito que nos llama. Descubre el lado más salvaje. ¡Regresa la aventura más épica de la televisión! Calentamos motores para 'Supervivientes 2022', que muy&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://supervivientes.ml/media/posts/1/soon.jpg" alt="" />
+                <p>Siente el grito que nos llama. Descubre el lado más salvaje. ¡Regresa la aventura más épica de la televisión! Calentamos motores para<strong> 'Supervivientes 2022'</strong>, que muy pronto llega a Telecinco con una <strong>nueva edición del reality más extremo</strong>. ¿Sientes la llamada</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

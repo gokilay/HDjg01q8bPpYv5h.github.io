@@ -1,0 +1,86 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Supervivientes",
+    "description": "",
+    "home_page_url": "https://supervivientes.ml",
+    "feed_url": "https://supervivientes.ml/feed.json",
+    "user_comment": "",
+    "icon": "https://supervivientes.ml/media/website/supervivientes_d6f4-2.jpg",
+    "author": {
+        "name": "supervivientes"
+    },
+    "items": [
+        {
+            "id": "https://supervivientes.ml/marta-penate.html",
+            "url": "https://supervivientes.ml/marta-penate.html",
+            "title": "Marta Peñate",
+            "image": "https://supervivientes.ml/media/posts/5/marta.jpg",
+            "author": {
+                "name": "supervivientes"
+            },
+            "tags": [
+                   "Concursantes"
+            ],
+            "date_published": "2022-04-04T22:44:16+00:00",
+            "date_modified": "2022-04-04T22:44:16+00:00"
+        },
+        {
+            "id": "https://supervivientes.ml/ainhoa-cantalapiedra.html",
+            "url": "https://supervivientes.ml/ainhoa-cantalapiedra.html",
+            "title": "Ainhoa Cantalapiedra",
+            "image": "https://supervivientes.ml/media/posts/4/ainhoa.jpg",
+            "author": {
+                "name": "supervivientes"
+            },
+            "tags": [
+                   "Concursantes"
+            ],
+            "date_published": "2022-04-04T22:43:36+00:00",
+            "date_modified": "2022-04-04T22:43:36+00:00"
+        },
+        {
+            "id": "https://supervivientes.ml/kiko-matamoros.html",
+            "url": "https://supervivientes.ml/kiko-matamoros.html",
+            "title": "Kiko Matamoros",
+            "image": "https://supervivientes.ml/media/posts/3/kiko.jpg",
+            "author": {
+                "name": "supervivientes"
+            },
+            "tags": [
+                   "Concursantes"
+            ],
+            "date_published": "2022-04-04T22:42:52+00:00",
+            "date_modified": "2022-04-04T22:42:52+00:00"
+        },
+        {
+            "id": "https://supervivientes.ml/nacho-palau.html",
+            "url": "https://supervivientes.ml/nacho-palau.html",
+            "title": "Nacho Palau",
+            "image": "https://supervivientes.ml/media/posts/2/nacho.jpg",
+            "author": {
+                "name": "supervivientes"
+            },
+            "tags": [
+                   "Concursantes"
+            ],
+            "date_published": "2022-04-04T22:42:04+00:00",
+            "date_modified": "2022-04-04T22:42:04+00:00"
+        },
+        {
+            "id": "https://supervivientes.ml/regresa-supervivientes-2022.html",
+            "url": "https://supervivientes.ml/regresa-supervivientes-2022.html",
+            "title": "Regresa Supervivientes 2022",
+            "summary": "Siente el grito que nos llama. Descubre el lado más salvaje. ¡Regresa la aventura más épica de la televisión! Calentamos motores para 'Supervivientes 2022', que muy&hellip;",
+            "content_html": "<p>Siente el grito que nos llama. Descubre el lado más salvaje. ¡Regresa la aventura más épica de la televisión! Calentamos motores para<strong> 'Supervivientes 2022'</strong>, que muy pronto llega a Telecinco con una <strong>nueva edición del reality más extremo</strong>. ¿Sientes la llamada</p>",
+            "image": "https://supervivientes.ml/media/posts/1/soon.jpg",
+            "author": {
+                "name": "supervivientes"
+            },
+            "tags": [
+                   "Noticias"
+            ],
+            "date_published": "2022-04-04T22:12:52+00:00",
+            "date_modified": "2022-04-04T22:16:43+00:00"
+        }
+    ]
+}
