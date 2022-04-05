@@ -3,12 +3,25 @@
     <title>Supervivientes</title>
     <link href="https://supervivientes.ml/feed.xml" rel="self" />
     <link href="https://supervivientes.ml" />
-    <updated>2022-04-04T22:44:16+00:00</updated>
+    <updated>2022-04-05T20:59:10+00:00</updated>
     <author>
         <name>supervivientes</name>
     </author>
     <id>https://supervivientes.ml</id>
 
+    <entry>
+        <title>Anabel Pantoja</title>
+        <author>
+            <name>supervivientes</name>
+        </author>
+        <link href="https://supervivientes.ml/anabel-pantoja.html"/>
+        <id>https://supervivientes.ml/anabel-pantoja.html</id>
+            <category term="Concursantes"/>
+
+        <updated>2022-04-05T20:59:10+00:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Marta Peñate</title>
         <author>
