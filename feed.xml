@@ -3,12 +3,36 @@
     <title>Supervivientes</title>
     <link href="https://supervivientes.ml/feed.xml" rel="self" />
     <link href="https://supervivientes.ml" />
-    <updated>2022-04-06T07:54:14+01:00</updated>
+    <updated>2022-04-06T17:21:29+01:00</updated>
     <author>
         <name>supervivientes</name>
     </author>
     <id>https://supervivientes.ml</id>
 
+    <entry>
+        <title>Ignacio de Borbón</title>
+        <author>
+            <name>supervivientes</name>
+        </author>
+        <link href="https://supervivientes.ml/ignacio-de-borbon.html"/>
+        <id>https://supervivientes.ml/ignacio-de-borbon.html</id>
+            <category term="Concursantes"/>
+
+        <updated>2022-04-06T17:21:29+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://supervivientes.ml/media/posts/8/ignacio_de_borbon_carita_452b.jpg" alt="" />
+                    Ignacio de Borbón es, como su apellido indica, pariente lejano del rey Felipe VI. Pero su vida está lejos de palacio: se dedica a la&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://supervivientes.ml/media/posts/8/ignacio_de_borbon_carita_452b.jpg" alt="" />
+                <figure class="post__image"><img loading="lazy"  src="https://supervivientes.ml/media/posts/8/ignacio_de_borbon_carita_452b-2.jpg" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://supervivientes.ml/media/posts/8/responsive/ignacio_de_borbon_carita_452b-2-xs.jpg 300w ,https://supervivientes.ml/media/posts/8/responsive/ignacio_de_borbon_carita_452b-2-sm.jpg 480w ,https://supervivientes.ml/media/posts/8/responsive/ignacio_de_borbon_carita_452b-2-md.jpg 749w ,https://supervivientes.ml/media/posts/8/responsive/ignacio_de_borbon_carita_452b-2-xl.jpg 1200w"  alt="" width="320" height="375"></figure>
+<p class="align-left">Ignacio de Borbón es, como su apellido indica, pariente lejano del rey Felipe VI. Pero su vida está lejos de palacio: se dedica a la moda y está triunfando en China y Corea. Ahora se embarca en la aventura de su vida: 'Supervivientes 2022'.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Anabel Pantoja</title>
         <author>
@@ -114,7 +138,7 @@
         <id>https://supervivientes.ml/nacho-palau.html</id>
             <category term="Concursantes"/>
 
-        <updated>2022-04-06T07:53:07+01:00</updated>
+        <updated>2022-04-06T07:55:52+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://supervivientes.ml/media/posts/2/MicrosoftTeams-image_-15_942b.jpg" alt="" />
