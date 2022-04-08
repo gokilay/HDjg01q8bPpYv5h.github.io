@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://supervivientes.ml/mariana-rodriguez.html",
+            "url": "https://supervivientes.ml/mariana-rodriguez.html",
+            "title": "Mariana Rodríguez",
+            "summary": "Mariana Rodríguez (Venezuela, 1991) nació en Caracas y es la menor de cuatro hermanos. Ha trabajado como modelo, pero donde ha saltado a la fama&hellip;",
+            "content_html": "<p>Mariana Rodríguez (Venezuela, 1991) nació en Caracas y es la menor de cuatro hermanos. Ha trabajado como modelo, pero donde ha saltado a la fama ha sido en televisión. Ha trabajado en varios programas de la televisión italiana e incluso ha sido actriz de cine. En 2016 entró a participar en la versión italiana de Gran Hermano. Ahora se une a la aventura de 'Supervivientes'</p>",
+            "image": "https://supervivientes.ml/media/posts/9/mariacarita_86de.jpg",
+            "author": {
+                "name": "supervivientes"
+            },
+            "tags": [
+                   "Concursantes"
+            ],
+            "date_published": "2022-04-08T17:05:19+01:00",
+            "date_modified": "2022-04-08T17:05:19+01:00"
+        },
+        {
             "id": "https://supervivientes.ml/ignacio-de-borbon.html",
             "url": "https://supervivientes.ml/ignacio-de-borbon.html",
             "title": "Ignacio de Borbón",
