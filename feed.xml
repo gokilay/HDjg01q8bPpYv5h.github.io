@@ -3,12 +3,30 @@
     <title>Supervivientes</title>
     <link href="https://supervivientes.ml/feed.xml" rel="self" />
     <link href="https://supervivientes.ml" />
-    <updated>2022-04-04T23:16:43+01:00</updated>
+    <updated>2022-04-19T06:00:04+01:00</updated>
     <author>
         <name>supervivientes</name>
     </author>
     <id>https://supervivientes.ml</id>
 
+    <entry>
+        <title>Rumbo a Honduras</title>
+        <author>
+            <name>supervivientes</name>
+        </author>
+        <link href="https://supervivientes.ml/rumbo-a-honduras.html"/>
+        <id>https://supervivientes.ml/rumbo-a-honduras.html</id>
+            <category term="Extras"/>
+
+        <updated>2022-04-19T06:00:04+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://supervivientes.ml/media/posts/10/rumboahondurasPLUS_ea06.jpg" alt="" />
+                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/3641451743861" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Regresa Supervivientes 2022</title>
         <author>
