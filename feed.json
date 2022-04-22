@@ -16,6 +16,7 @@
             "title": "Gala 1",
             "summary": "Disponible en las proximas horas",
             "content_html": "<p><strong>Disponible en las proximas horas</strong></p>",
+            "image": "https://supervivientes.ml/media/posts/12/SV_Gala1_c9ea.jpg",
             "author": {
                 "name": "supervivientes"
             },
@@ -23,7 +24,7 @@
                    "Galas"
             ],
             "date_published": "2022-04-22T03:02:40+01:00",
-            "date_modified": "2022-04-22T03:02:40+01:00"
+            "date_modified": "2022-04-22T08:09:54+01:00"
         },
         {
             "id": "https://supervivientes.ml/primeras-horas-en-honduras.html",
