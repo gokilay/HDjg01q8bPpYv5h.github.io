@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://supervivientes.ml/gala-1.html",
+            "url": "https://supervivientes.ml/gala-1.html",
+            "title": "Gala 1",
+            "summary": "Disponible en las proximas horas",
+            "content_html": "<p><strong>Disponible en las proximas horas</strong></p>",
+            "author": {
+                "name": "supervivientes"
+            },
+            "tags": [
+                   "Galas"
+            ],
+            "date_published": "2022-04-22T03:02:40+01:00",
+            "date_modified": "2022-04-22T03:02:40+01:00"
+        },
+        {
             "id": "https://supervivientes.ml/primeras-horas-en-honduras.html",
             "url": "https://supervivientes.ml/primeras-horas-en-honduras.html",
             "title": "Primeras horas en Honduras",

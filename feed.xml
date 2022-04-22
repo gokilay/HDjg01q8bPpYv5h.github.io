@@ -3,12 +3,33 @@
     <title>Supervivientes</title>
     <link href="https://supervivientes.ml/feed.xml" rel="self" />
     <link href="https://supervivientes.ml" />
-    <updated>2022-04-20T19:48:38+01:00</updated>
+    <updated>2022-04-22T03:02:40+01:00</updated>
     <author>
         <name>supervivientes</name>
     </author>
     <id>https://supervivientes.ml</id>
 
+    <entry>
+        <title>Gala 1</title>
+        <author>
+            <name>supervivientes</name>
+        </author>
+        <link href="https://supervivientes.ml/gala-1.html"/>
+        <id>https://supervivientes.ml/gala-1.html</id>
+            <category term="Galas"/>
+
+        <updated>2022-04-22T03:02:40+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Disponible en las proximas horas
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><strong>Disponible en las proximas horas</strong></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Primeras horas en Honduras</title>
         <author>
