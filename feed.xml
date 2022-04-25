@@ -3,12 +3,35 @@
     <title>Supervivientes</title>
     <link href="https://supervivientes.ml/feed.xml" rel="self" />
     <link href="https://supervivientes.ml" />
-    <updated>2022-04-22T08:13:58+01:00</updated>
+    <updated>2022-04-25T05:38:11+01:00</updated>
     <author>
         <name>supervivientes</name>
     </author>
     <id>https://supervivientes.ml</id>
 
+    <entry>
+        <title>Conexión Honduras 1</title>
+        <author>
+            <name>supervivientes</name>
+        </author>
+        <link href="https://supervivientes.ml/conexion-honduras-1.html"/>
+        <id>https://supervivientes.ml/conexion-honduras-1.html</id>
+            <category term="ConexionHonduras"/>
+
+        <updated>2022-04-25T05:38:11+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://supervivientes.ml/media/posts/13/clipping_1f5A9I_3f79.jpg" alt="" />
+                    Disponible en las proximas horas (cuando este disponible en Mediaset)
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://supervivientes.ml/media/posts/13/clipping_1f5A9I_3f79.jpg" alt="" />
+                <p>Disponible en las proximas horas (cuando este disponible en Mediaset)</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Gala 1</title>
         <author>
