@@ -14,9 +14,8 @@
             "id": "https://supervivientes.ml/conexion-honduras-1.html",
             "url": "https://supervivientes.ml/conexion-honduras-1.html",
             "title": "Conexión Honduras 1",
-            "summary": "Disponible en las proximas horas (cuando este disponible en Mediaset)",
-            "content_html": "<p>Disponible en las proximas horas (cuando este disponible en Mediaset)</p>",
-            "image": "https://supervivientes.ml/media/posts/13/clipping_1f5A9I_3f79.jpg",
+            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"//ok.ru/videoembed/4218624346684\" frameborder=\"0\" allow=\"autoplay\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
+            "image": "https://supervivientes.ml/media/posts/13/conexionhonduras2022_1jpg_c949.jpg",
             "author": {
                 "name": "supervivientes"
             },
@@ -24,7 +23,7 @@
                    "ConexionHonduras"
             ],
             "date_published": "2022-04-25T05:38:11+01:00",
-            "date_modified": "2022-04-25T05:38:11+01:00"
+            "date_modified": "2022-04-25T08:17:58+01:00"
         },
         {
             "id": "https://supervivientes.ml/gala-1.html",

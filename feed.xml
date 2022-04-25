@@ -3,7 +3,7 @@
     <title>Supervivientes</title>
     <link href="https://supervivientes.ml/feed.xml" rel="self" />
     <link href="https://supervivientes.ml" />
-    <updated>2022-04-25T05:38:11+01:00</updated>
+    <updated>2022-04-25T08:17:58+01:00</updated>
     <author>
         <name>supervivientes</name>
     </author>
@@ -18,17 +18,12 @@
         <id>https://supervivientes.ml/conexion-honduras-1.html</id>
             <category term="ConexionHonduras"/>
 
-        <updated>2022-04-25T05:38:11+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://supervivientes.ml/media/posts/13/clipping_1f5A9I_3f79.jpg" alt="" />
-                    Disponible en las proximas horas (cuando este disponible en Mediaset)
-                ]]>
-            </summary>
+        <updated>2022-04-25T08:17:58+01:00</updated>
+            <summary></summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://supervivientes.ml/media/posts/13/clipping_1f5A9I_3f79.jpg" alt="" />
-                <p>Disponible en las proximas horas (cuando este disponible en Mediaset)</p>
+                    <img src="https://supervivientes.ml/media/posts/13/conexionhonduras2022_1jpg_c949.jpg" alt="" />
+                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/4218624346684" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
     </entry>
