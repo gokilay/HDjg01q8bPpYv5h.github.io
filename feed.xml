@@ -3,12 +3,30 @@
     <title>Supervivientes</title>
     <link href="https://supervivientes.ml/feed.xml" rel="self" />
     <link href="https://supervivientes.ml" />
-    <updated>2022-04-26T08:30:44+01:00</updated>
+    <updated>2022-04-27T04:50:03+01:00</updated>
     <author>
         <name>supervivientes</name>
     </author>
     <id>https://supervivientes.ml</id>
 
+    <entry>
+        <title>Infiltrados en Honduras 2</title>
+        <author>
+            <name>supervivientes</name>
+        </author>
+        <link href="https://supervivientes.ml/infiltrados-en-honduras-2.html"/>
+        <id>https://supervivientes.ml/infiltrados-en-honduras-2.html</id>
+            <category term="Infiltrados"/>
+
+        <updated>2022-04-27T04:50:03+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://supervivientes.ml/media/posts/16/in2_b5ae.jpg" alt="" />
+                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/3640588241560" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Infiltrados en Honduras 1</title>
         <author>
