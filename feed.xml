@@ -3,12 +3,30 @@
     <title>Supervivientes</title>
     <link href="https://supervivientes.ml/feed.xml" rel="self" />
     <link href="https://supervivientes.ml" />
-    <updated>2022-04-28T11:47:20+01:00</updated>
+    <updated>2022-04-28T11:48:45+01:00</updated>
     <author>
         <name>supervivientes</name>
     </author>
     <id>https://supervivientes.ml</id>
 
+    <entry>
+        <title>Resúmen diario 3</title>
+        <author>
+            <name>supervivientes</name>
+        </author>
+        <link href="https://supervivientes.ml/resumen-diario-3.html"/>
+        <id>https://supervivientes.ml/resumen-diario-3.html</id>
+            <category term="Resúmenes diarios"/>
+
+        <updated>2022-04-28T11:48:45+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://supervivientes.ml/media/posts/22/res270422ok_2ede.jpg" alt="" />
+                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/3674322831989" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Resúmen diario 2</title>
         <author>
@@ -168,24 +186,6 @@
             <![CDATA[
                     <img src="https://supervivientes.ml/media/posts/12/SV_Gala1_c9ea.jpg" alt="" />
                 <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/4211438848572" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Primeras horas en Honduras</title>
-        <author>
-            <name>supervivientes</name>
-        </author>
-        <link href="https://supervivientes.ml/primeras-horas-en-honduras.html"/>
-        <id>https://supervivientes.ml/primeras-horas-en-honduras.html</id>
-            <category term="Extras"/>
-
-        <updated>2022-04-20T19:48:38+01:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://supervivientes.ml/media/posts/11/SV-primerashorasenhonduras_logo_0b0f.jpg" alt="" />
-                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/3653219650165" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
     </entry>
