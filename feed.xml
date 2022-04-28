@@ -3,12 +3,84 @@
     <title>Supervivientes</title>
     <link href="https://supervivientes.ml/feed.xml" rel="self" />
     <link href="https://supervivientes.ml" />
-    <updated>2022-04-27T21:54:57+01:00</updated>
+    <updated>2022-04-28T11:47:20+01:00</updated>
     <author>
         <name>supervivientes</name>
     </author>
     <id>https://supervivientes.ml</id>
 
+    <entry>
+        <title>Resúmen diario 2</title>
+        <author>
+            <name>supervivientes</name>
+        </author>
+        <link href="https://supervivientes.ml/resumen-diario-2.html"/>
+        <id>https://supervivientes.ml/resumen-diario-2.html</id>
+            <category term="Resúmenes diarios"/>
+
+        <updated>2022-04-28T11:47:20+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://supervivientes.ml/media/posts/21/SV-diario2_51f3.jpg" alt="" />
+                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/3671572810357" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Resúmen diario 1</title>
+        <author>
+            <name>supervivientes</name>
+        </author>
+        <link href="https://supervivientes.ml/resumen-diario-1.html"/>
+        <id>https://supervivientes.ml/resumen-diario-1.html</id>
+            <category term="Resúmenes diarios"/>
+
+        <updated>2022-04-28T11:45:49+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://supervivientes.ml/media/posts/20/diario250422_8771.jpg" alt="" />
+                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/3669666368117" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Última hora 2</title>
+        <author>
+            <name>supervivientes</name>
+        </author>
+        <link href="https://supervivientes.ml/ultima-hora-2.html"/>
+        <id>https://supervivientes.ml/ultima-hora-2.html</id>
+            <category term="Última Hora"/>
+
+        <updated>2022-04-28T11:46:04+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://supervivientes.ml/media/posts/19/uh270422_ae4b.jpg" alt="" />
+                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/3675087309429" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Última hora 1</title>
+        <author>
+            <name>supervivientes</name>
+        </author>
+        <link href="https://supervivientes.ml/ultima-hora-1.html"/>
+        <id>https://supervivientes.ml/ultima-hora-1.html</id>
+            <category term="Última Hora"/>
+
+        <updated>2022-04-28T11:40:05+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://supervivientes.ml/media/posts/18/lara_d007.jpg" alt="" />
+                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/3672394107509" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Infiltrados en Honduras 3</title>
         <author>
@@ -114,47 +186,6 @@
             <![CDATA[
                     <img src="https://supervivientes.ml/media/posts/11/SV-primerashorasenhonduras_logo_0b0f.jpg" alt="" />
                 <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/3653219650165" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Rumbo a Honduras</title>
-        <author>
-            <name>supervivientes</name>
-        </author>
-        <link href="https://supervivientes.ml/rumbo-a-honduras.html"/>
-        <id>https://supervivientes.ml/rumbo-a-honduras.html</id>
-            <category term="Extras"/>
-
-        <updated>2022-04-19T06:00:04+01:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://supervivientes.ml/media/posts/10/rumboahondurasPLUS_ea06.jpg" alt="" />
-                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/3641451743861" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Regresa Supervivientes 2022</title>
-        <author>
-            <name>supervivientes</name>
-        </author>
-        <link href="https://supervivientes.ml/regresa-supervivientes-2022.html"/>
-        <id>https://supervivientes.ml/regresa-supervivientes-2022.html</id>
-            <category term="Noticias"/>
-
-        <updated>2022-04-04T23:16:43+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://supervivientes.ml/media/posts/1/soon.jpg" alt="" />
-                    Siente el grito que nos llama. Descubre el lado más salvaje. ¡Regresa la aventura más épica de la televisión! Calentamos motores para 'Supervivientes 2022', que muy&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://supervivientes.ml/media/posts/1/soon.jpg" alt="" />
-                <p>Siente el grito que nos llama. Descubre el lado más salvaje. ¡Regresa la aventura más épica de la televisión! Calentamos motores para<strong> 'Supervivientes 2022'</strong>, que muy pronto llega a Telecinco con una <strong>nueva edición del reality más extremo</strong>. ¿Sientes la llamada</p>
             ]]>
         </content>
     </entry>
