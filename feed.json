@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://supervivientes.ml/gala-2.html",
+            "url": "https://supervivientes.ml/gala-2.html",
+            "title": "Gala 2",
+            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"//ok.ru/videoembed/4228255320636\" frameborder=\"0\" allow=\"autoplay\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
+            "image": "https://supervivientes.ml/media/posts/25/SV_Gala2_00cc.jpg",
+            "author": {
+                "name": "supervivientes"
+            },
+            "tags": [
+                   "Galas"
+            ],
+            "date_published": "2022-04-29T11:04:02+01:00",
+            "date_modified": "2022-04-29T11:04:39+01:00"
+        },
+        {
             "id": "https://supervivientes.ml/infiltrados-en-honduras-4.html",
             "url": "https://supervivientes.ml/infiltrados-en-honduras-4.html",
             "title": "Infiltrados en Honduras 4",
@@ -144,21 +159,6 @@
             ],
             "date_published": "2022-04-27T04:50:03+01:00",
             "date_modified": "2022-04-27T04:50:03+01:00"
-        },
-        {
-            "id": "https://supervivientes.ml/infiltrados-en-honduras-1.html",
-            "url": "https://supervivientes.ml/infiltrados-en-honduras-1.html",
-            "title": "Infiltrados en Honduras 1",
-            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"//ok.ru/videoembed/3669147978357\" frameborder=\"0\" allow=\"autoplay\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
-            "image": "https://supervivientes.ml/media/posts/15/in_6915.jpg",
-            "author": {
-                "name": "supervivientes"
-            },
-            "tags": [
-                   "Infiltrados"
-            ],
-            "date_published": "2022-04-26T08:30:44+01:00",
-            "date_modified": "2022-04-26T08:30:44+01:00"
         }
     ]
 }
