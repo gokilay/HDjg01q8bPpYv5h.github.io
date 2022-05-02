@@ -3,12 +3,30 @@
     <title>Supervivientes</title>
     <link href="https://supervivientes.ml/feed.xml" rel="self" />
     <link href="https://supervivientes.ml" />
-    <updated>2022-04-30T08:11:33+01:00</updated>
+    <updated>2022-05-02T19:35:22+01:00</updated>
     <author>
         <name>supervivientes</name>
     </author>
     <id>https://supervivientes.ml</id>
 
+    <entry>
+        <title>Conexión Honduras 2</title>
+        <author>
+            <name>supervivientes</name>
+        </author>
+        <link href="https://supervivientes.ml/conexion-honduras-2.html"/>
+        <id>https://supervivientes.ml/conexion-honduras-2.html</id>
+            <category term="ConexionHonduras"/>
+
+        <updated>2022-05-02T19:35:22+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://supervivientes.ml/media/posts/28/conexionhonduras010522pg_9730.jpg" alt="" />
+                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/4235735075388" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Resúmen diario 5</title>
         <author>
@@ -168,24 +186,6 @@
             <![CDATA[
                     <img src="https://supervivientes.ml/media/posts/19/uh270422_ae4b.jpg" alt="" />
                 <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/3675087309429" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Última hora 1</title>
-        <author>
-            <name>supervivientes</name>
-        </author>
-        <link href="https://supervivientes.ml/ultima-hora-1.html"/>
-        <id>https://supervivientes.ml/ultima-hora-1.html</id>
-            <category term="Última Hora"/>
-
-        <updated>2022-04-28T11:40:05+01:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://supervivientes.ml/media/posts/18/lara_d007.jpg" alt="" />
-                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/3672394107509" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
     </entry>
