@@ -3,7 +3,7 @@
     <title>Supervivientes</title>
     <link href="https://supervivientes.ml/feed.xml" rel="self" />
     <link href="https://supervivientes.ml" />
-    <updated>2022-05-02T22:57:20+01:00</updated>
+    <updated>2022-05-03T15:29:48+01:00</updated>
     <author>
         <name>supervivientes</name>
     </author>
@@ -42,6 +42,24 @@
             <![CDATA[
                     <img src="https://supervivientes.ml/media/posts/30/infiltrados6PLUS_ad02.jpg" alt="" />
                 <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/3687289260661" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Resúmen diario 6</title>
+        <author>
+            <name>supervivientes</name>
+        </author>
+        <link href="https://supervivientes.ml/resumen-diario-6.html"/>
+        <id>https://supervivientes.ml/resumen-diario-6.html</id>
+            <category term="Resúmenes diarios"/>
+
+        <updated>2022-05-03T15:29:48+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://supervivientes.ml/media/posts/29/SS-diario6PLUS_d939.jpg" alt="" />
+                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/3655168494232" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
     </entry>
@@ -168,24 +186,6 @@
             <![CDATA[
                     <img src="https://supervivientes.ml/media/posts/22/res270422ok_2ede.jpg" alt="" />
                 <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/3674322831989" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Resúmen diario 2</title>
-        <author>
-            <name>supervivientes</name>
-        </author>
-        <link href="https://supervivientes.ml/resumen-diario-2.html"/>
-        <id>https://supervivientes.ml/resumen-diario-2.html</id>
-            <category term="Resúmenes diarios"/>
-
-        <updated>2022-04-28T11:47:20+01:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://supervivientes.ml/media/posts/21/SV-diario2_51f3.jpg" alt="" />
-                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/3671572810357" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
     </entry>
