@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://supervivientes.ml/gala-3.html",
+            "url": "https://supervivientes.ml/gala-3.html",
+            "title": "Gala 3",
+            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"//ok.ru/videoembed/3695465007733\" frameborder=\"0\" allow=\"autoplay\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
+            "image": "https://supervivientes.ml/media/posts/40/SV_Gala3_254d.jpg",
+            "author": {
+                "name": "supervivientes"
+            },
+            "tags": [
+                   "Galas"
+            ],
+            "date_published": "2022-05-06T14:20:49+01:00",
+            "date_modified": "2022-05-06T14:22:00+01:00"
+        },
+        {
             "id": "https://supervivientes.ml/resumen-diario-9.html",
             "url": "https://supervivientes.ml/resumen-diario-9.html",
             "title": "Resúmen diario 9",
@@ -144,21 +159,6 @@
             ],
             "date_published": "2022-05-02T22:52:17+01:00",
             "date_modified": "2022-05-02T22:55:45+01:00"
-        },
-        {
-            "id": "https://supervivientes.ml/resumen-diario-6.html",
-            "url": "https://supervivientes.ml/resumen-diario-6.html",
-            "title": "Resúmen diario 6",
-            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"//ok.ru/videoembed/3655168494232\" frameborder=\"0\" allow=\"autoplay\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
-            "image": "https://supervivientes.ml/media/posts/29/SS-diario6PLUS_d939.jpg",
-            "author": {
-                "name": "supervivientes"
-            },
-            "tags": [
-                   "Resúmenes diarios"
-            ],
-            "date_published": "2022-05-02T22:52:13+01:00",
-            "date_modified": "2022-05-03T15:29:48+01:00"
         }
     ]
 }
