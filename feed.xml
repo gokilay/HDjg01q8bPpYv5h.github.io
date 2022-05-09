@@ -3,12 +3,35 @@
     <title>Supervivientes</title>
     <link href="https://supervivientes.ml/feed.xml" rel="self" />
     <link href="https://supervivientes.ml" />
-    <updated>2022-05-09T07:49:32+01:00</updated>
+    <updated>2022-05-09T07:54:16+01:00</updated>
     <author>
         <name>supervivientes</name>
     </author>
     <id>https://supervivientes.ml</id>
 
+    <entry>
+        <title>Conexión Honduras 3</title>
+        <author>
+            <name>supervivientes</name>
+        </author>
+        <link href="https://supervivientes.ml/conexion-honduras-3.html"/>
+        <id>https://supervivientes.ml/conexion-honduras-3.html</id>
+            <category term="ConexionHonduras"/>
+
+        <updated>2022-05-09T07:54:16+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://supervivientes.ml/media/posts/43/conexionhonduras_3_e4e7.jpg" alt="" />
+                    Disponible en breves
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://supervivientes.ml/media/posts/43/conexionhonduras_3_e4e7.jpg" alt="" />
+                <p>Disponible en breves</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Resúmen diario 10</title>
         <author>
@@ -168,24 +191,6 @@
             <![CDATA[
                     <img src="https://supervivientes.ml/media/posts/34/SV-diario7_5daa.jpg" alt="" />
                 <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/3689306524277" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Infiltrados en Honduras 7</title>
-        <author>
-            <name>supervivientes</name>
-        </author>
-        <link href="https://supervivientes.ml/infiltrados-en-honduras-7.html"/>
-        <id>https://supervivientes.ml/infiltrados-en-honduras-7.html</id>
-            <category term="Infiltrados"/>
-
-        <updated>2022-05-04T07:59:03+01:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://supervivientes.ml/media/posts/33/infiltrados7PLUS_3c99.jpg" alt="" />
-                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/3657585658520" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
     </entry>
