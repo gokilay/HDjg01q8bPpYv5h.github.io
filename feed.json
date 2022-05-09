@@ -14,8 +14,7 @@
             "id": "https://supervivientes.ml/conexion-honduras-3.html",
             "url": "https://supervivientes.ml/conexion-honduras-3.html",
             "title": "Conexión Honduras 3",
-            "summary": "Disponible en breves",
-            "content_html": "<p>Disponible en breves</p>",
+            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"//ok.ru/videoembed/3703150414453\" frameborder=\"0\" allow=\"autoplay\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
             "image": "https://supervivientes.ml/media/posts/43/conexionhonduras_3_e4e7.jpg",
             "author": {
                 "name": "supervivientes"
@@ -24,7 +23,7 @@
                    "ConexionHonduras"
             ],
             "date_published": "2022-05-09T07:53:57+01:00",
-            "date_modified": "2022-05-09T07:54:16+01:00"
+            "date_modified": "2022-05-09T15:31:51+01:00"
         },
         {
             "id": "https://supervivientes.ml/resumen-diario-10.html",
