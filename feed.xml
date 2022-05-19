@@ -3,12 +3,48 @@
     <title>Supervivientes</title>
     <link href="https://supervivientes.ml/feed.xml" rel="self" />
     <link href="https://supervivientes.ml" />
-    <updated>2022-05-16T23:10:27+01:00</updated>
+    <updated>2022-05-19T06:48:10+01:00</updated>
     <author>
         <name>supervivientes</name>
     </author>
     <id>https://supervivientes.ml</id>
 
+    <entry>
+        <title>Infiltrados en Honduras 18</title>
+        <author>
+            <name>supervivientes</name>
+        </author>
+        <link href="https://supervivientes.ml/infiltrados-en-honduras-18.html"/>
+        <id>https://supervivientes.ml/infiltrados-en-honduras-18.html</id>
+            <category term="Infiltrados"/>
+
+        <updated>2022-05-19T06:48:10+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://supervivientes.ml/media/posts/57/in180522_807c.jpg" alt="" />
+                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/3692861328024" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Infiltrados en Honduras 17</title>
+        <author>
+            <name>supervivientes</name>
+        </author>
+        <link href="https://supervivientes.ml/infiltrados-en-honduras-17.html"/>
+        <id>https://supervivientes.ml/infiltrados-en-honduras-17.html</id>
+            <category term="Infiltrados"/>
+
+        <updated>2022-05-19T06:46:56+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://supervivientes.ml/media/posts/56/in170522_d775.jpg" alt="" />
+                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/3723336682101" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Infiltrados en Honduras 16</title>
         <author>
@@ -150,42 +186,6 @@
             <![CDATA[
                     <img src="https://supervivientes.ml/media/posts/47/ConexionHonduras_3_5ad0.jpg" alt="" />
                 <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/3719984974453" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Resúmen diario 12</title>
-        <author>
-            <name>supervivientes</name>
-        </author>
-        <link href="https://supervivientes.ml/resumen-diario-12.html"/>
-        <id>https://supervivientes.ml/resumen-diario-12.html</id>
-            <category term="Resúmenes diarios"/>
-
-        <updated>2022-05-12T06:52:58+01:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://supervivientes.ml/media/posts/46/SV-diario12_6bd6.jpg" alt="" />
-                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/3706795068021" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Infiltrados en Honduras 11</title>
-        <author>
-            <name>supervivientes</name>
-        </author>
-        <link href="https://supervivientes.ml/infiltrados-en-honduras-10-2.html"/>
-        <id>https://supervivientes.ml/infiltrados-en-honduras-10-2.html</id>
-            <category term="Infiltrados"/>
-
-        <updated>2022-05-09T18:13:48+01:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://supervivientes.ml/media/posts/45/omar_b041.jpg" alt="" />
-                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/3704324819573" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
     </entry>
