@@ -3,12 +3,30 @@
     <title>Supervivientes</title>
     <link href="https://supervivientes.ml/feed.xml" rel="self" />
     <link href="https://supervivientes.ml" />
-    <updated>2022-05-20T07:54:28+01:00</updated>
+    <updated>2022-05-20T07:55:56+01:00</updated>
     <author>
         <name>supervivientes</name>
     </author>
     <id>https://supervivientes.ml</id>
 
+    <entry>
+        <title>Infiltrados en Honduras 19</title>
+        <author>
+            <name>supervivientes</name>
+        </author>
+        <link href="https://supervivientes.ml/infiltrados-en-honduras-19.html"/>
+        <id>https://supervivientes.ml/infiltrados-en-honduras-19.html</id>
+            <category term="Infiltrados"/>
+
+        <updated>2022-05-20T07:55:56+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://supervivientes.ml/media/posts/59/SV-infiltrados19PLUS_8163.jpg" alt="" />
+                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/3728003566197" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Tierra de Nadie 3</title>
         <author>
@@ -168,24 +186,6 @@
             <![CDATA[
                     <img src="https://supervivientes.ml/media/posts/49/inf100522_c20a.jpg" alt="" />
                 <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/3706811058805" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Resúmen diario 13</title>
-        <author>
-            <name>supervivientes</name>
-        </author>
-        <link href="https://supervivientes.ml/resumen-diario-13.html"/>
-        <id>https://supervivientes.ml/resumen-diario-13.html</id>
-            <category term="Resúmenes diarios"/>
-
-        <updated>2022-05-12T06:54:31+01:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://supervivientes.ml/media/posts/48/SV-diario13_8335.jpg" alt="" />
-                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/3708898970229" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
     </entry>
