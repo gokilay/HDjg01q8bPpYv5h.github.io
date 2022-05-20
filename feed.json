@@ -14,8 +14,7 @@
             "id": "https://supervivientes.ml/gala-5.html",
             "url": "https://supervivientes.ml/gala-5.html",
             "title": "Gala 5",
-            "summary": "En breves",
-            "content_html": "<p>En breves</p>",
+            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"//ok.ru/videoembed/3730006018677\" frameborder=\"0\" allow=\"autoplay\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
             "image": "https://supervivientes.ml/media/posts/61/g.5jpg",
             "author": {
                 "name": "supervivientes"
@@ -24,7 +23,7 @@
                    "Galas"
             ],
             "date_published": "2022-05-20T07:59:04+01:00",
-            "date_modified": "2022-05-20T07:59:58+01:00"
+            "date_modified": "2022-05-20T19:54:08+01:00"
         },
         {
             "id": "https://supervivientes.ml/gala-4.html",
