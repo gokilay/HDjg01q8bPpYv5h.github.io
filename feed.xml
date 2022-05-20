@@ -3,12 +3,53 @@
     <title>Supervivientes</title>
     <link href="https://supervivientes.ml/feed.xml" rel="self" />
     <link href="https://supervivientes.ml" />
-    <updated>2022-05-20T07:55:56+01:00</updated>
+    <updated>2022-05-20T07:59:58+01:00</updated>
     <author>
         <name>supervivientes</name>
     </author>
     <id>https://supervivientes.ml</id>
 
+    <entry>
+        <title>Gala 5</title>
+        <author>
+            <name>supervivientes</name>
+        </author>
+        <link href="https://supervivientes.ml/gala-5.html"/>
+        <id>https://supervivientes.ml/gala-5.html</id>
+            <category term="Galas"/>
+
+        <updated>2022-05-20T07:59:58+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://supervivientes.ml/media/posts/61/g.5jpg" alt="" />
+                    En breves
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://supervivientes.ml/media/posts/61/g.5jpg" alt="" />
+                <p>En breves</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Gala 4</title>
+        <author>
+            <name>supervivientes</name>
+        </author>
+        <link href="https://supervivientes.ml/gala-4.html"/>
+        <id>https://supervivientes.ml/gala-4.html</id>
+            <category term="Galas"/>
+
+        <updated>2022-05-20T07:58:57+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://supervivientes.ml/media/posts/60/SV_Gala4_b504.jpg" alt="" />
+                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/3713011288693" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Infiltrados en Honduras 19</title>
         <author>
@@ -150,42 +191,6 @@
             <![CDATA[
                     <img src="https://supervivientes.ml/media/posts/51/TierraDeNadie02_417b.jpg" alt="" />
                 <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/3709869034101" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Infiltrados en Honduras 13</title>
-        <author>
-            <name>supervivientes</name>
-        </author>
-        <link href="https://supervivientes.ml/infiltrados-en-honduras-13.html"/>
-        <id>https://supervivientes.ml/infiltrados-en-honduras-13.html</id>
-            <category term="Infiltrados"/>
-
-        <updated>2022-05-12T06:57:37+01:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://supervivientes.ml/media/posts/50/borbon_028f.jpg" alt="" />
-                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/3709016083061" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Infiltrados en Honduras 12</title>
-        <author>
-            <name>supervivientes</name>
-        </author>
-        <link href="https://supervivientes.ml/infiltrados-en-honduras-12.html"/>
-        <id>https://supervivientes.ml/infiltrados-en-honduras-12.html</id>
-            <category term="Infiltrados"/>
-
-        <updated>2022-05-12T06:56:11+01:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://supervivientes.ml/media/posts/49/inf100522_c20a.jpg" alt="" />
-                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/3706811058805" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
     </entry>
