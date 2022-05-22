@@ -3,7 +3,7 @@
     <title>Supervivientes</title>
     <link href="https://supervivientes.ml/feed.xml" rel="self" />
     <link href="https://supervivientes.ml" />
-    <updated>2022-05-22T16:02:53+01:00</updated>
+    <updated>2022-05-22T16:07:56+01:00</updated>
     <author>
         <name>supervivientes</name>
     </author>
@@ -126,17 +126,12 @@
         <id>https://supervivientes.ml/conexion-honduras-1-40_1009478575007.html</id>
             <category term="ConexionHonduras"/>
 
-        <updated>2022-05-22T15:58:37+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://supervivientes.ml/media/posts/8/8.jpg" alt=" Conexión Honduras 1 " />
-                    Disponible en breves Arrancan las primeras nominaciones
-                ]]>
-            </summary>
+        <updated>2022-05-22T16:06:56+01:00</updated>
+            <summary></summary>
         <content type="html">
             <![CDATA[
                     <img src="https://supervivientes.ml/media/posts/8/8.jpg" alt=" Conexión Honduras 1 " />
-                <h3>Disponible en breves</h3><br> Arrancan las primeras nominaciones 
+                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/3668343917173" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
     </entry>
@@ -149,17 +144,12 @@
         <id>https://supervivientes.ml/conexion-honduras-2-40_1009489075017.html</id>
             <category term="ConexionHonduras"/>
 
-        <updated>2022-05-22T15:58:37+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://supervivientes.ml/media/posts/9/9.jpg" alt=" Conexión Honduras 2 " />
-                    Disponible en breves El emocionante Día de la madre en Honduras
-                ]]>
-            </summary>
+        <updated>2022-05-22T16:07:16+01:00</updated>
+            <summary></summary>
         <content type="html">
             <![CDATA[
                     <img src="https://supervivientes.ml/media/posts/9/9.jpg" alt=" Conexión Honduras 2 " />
-                <h3>Disponible en breves</h3><br> El emocionante Día de la madre en Honduras 
+                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/3686092704373" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
     </entry>
@@ -172,17 +162,12 @@
         <id>https://supervivientes.ml/conexion-honduras-3-40_1009499575024.html</id>
             <category term="ConexionHonduras"/>
 
-        <updated>2022-05-22T15:58:37+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://supervivientes.ml/media/posts/10/10.jpg" alt=" Conexión Honduras 3 " />
-                    Disponible en breves La tensión se dispara en Honduras
-                ]]>
-            </summary>
+        <updated>2022-05-22T16:07:38+01:00</updated>
+            <summary></summary>
         <content type="html">
             <![CDATA[
                     <img src="https://supervivientes.ml/media/posts/10/10.jpg" alt=" Conexión Honduras 3 " />
-                <h3>Disponible en breves</h3><br> La tensión se dispara en Honduras 
+                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/3703074982517" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
     </entry>
@@ -195,17 +180,12 @@
         <id>https://supervivientes.ml/conexion-honduras-4-40_1009510075012.html</id>
             <category term="ConexionHonduras"/>
 
-        <updated>2022-05-22T15:58:37+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://supervivientes.ml/media/posts/11/11.jpg" alt=" Conexión Honduras 4 " />
-                    Disponible en breves Amor y expulsión en Cayos Cochinos
-                ]]>
-            </summary>
+        <updated>2022-05-22T16:07:56+01:00</updated>
+            <summary></summary>
         <content type="html">
             <![CDATA[
                     <img src="https://supervivientes.ml/media/posts/11/11.jpg" alt=" Conexión Honduras 4 " />
-                <h3>Disponible en breves</h3><br> Amor y expulsión en Cayos Cochinos 
+                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/3719984974453" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
     </entry>
