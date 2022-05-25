@@ -3,12 +3,30 @@
     <title>Supervivientes</title>
     <link href="https://supervivientes.ml/feed.xml" rel="self" />
     <link href="https://supervivientes.ml" />
-    <updated>2022-05-25T10:15:52+01:00</updated>
+    <updated>2022-05-25T10:20:54+01:00</updated>
     <author>
         <name>supervivientes</name>
     </author>
     <id>https://supervivientes.ml</id>
 
+    <entry>
+        <title>Resumen diario 22</title>
+        <author>
+            <name>supervivientes</name>
+        </author>
+        <link href="https://supervivientes.ml/resumen-diario-22.html"/>
+        <id>https://supervivientes.ml/resumen-diario-22.html</id>
+            <category term="Resúmenes diarios"/>
+
+        <updated>2022-05-25T10:20:54+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://supervivientes.ml/media/posts/253/supervivientes-resumen-22-plus_5609.webp" alt=" Resumen diario 22" />
+                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/3740018543221" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Infiltrados en Honduras 22</title>
         <author>
@@ -173,24 +191,6 @@
             <![CDATA[
                     <img src="https://supervivientes.ml/media/posts/7/7.jpg" alt=" Gala 5. Las nominaciones " />
                 <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/3732017318517" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title> Conexión Honduras 1 </title>
-        <author>
-            <name>supervivientes</name>
-        </author>
-        <link href="https://supervivientes.ml/conexion-honduras-1-40_1009478575007.html"/>
-        <id>https://supervivientes.ml/conexion-honduras-1-40_1009478575007.html</id>
-            <category term="Conexion Honduras"/>
-
-        <updated>2022-05-22T16:06:56+01:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://supervivientes.ml/media/posts/8/8.jpg" alt=" Conexión Honduras 1 " />
-                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/3668343917173" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
     </entry>
