@@ -3,7 +3,7 @@
     <title>Supervivientes</title>
     <link href="https://supervivientes.ml/feed.xml" rel="self" />
     <link href="https://supervivientes.ml" />
-    <updated>2022-05-25T10:20:54+01:00</updated>
+    <updated>2022-05-26T08:20:26+01:00</updated>
     <author>
         <name>supervivientes</name>
     </author>
@@ -72,17 +72,12 @@
         <id>https://supervivientes.ml/tierra-de-nadie-4.html</id>
             <category term="Tierra de Nadie"/>
 
-        <updated>2022-05-25T10:12:58+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://supervivientes.ml/media/posts/250/supervivientes-2022-tierra-de-nadie-4_5328.webp" alt=" Tierra de Nadie 4" />
-                    Disponible en breves
-                ]]>
-            </summary>
+        <updated>2022-05-26T08:20:26+01:00</updated>
+            <summary></summary>
         <content type="html">
             <![CDATA[
                     <img src="https://supervivientes.ml/media/posts/250/supervivientes-2022-tierra-de-nadie-4_5328.webp" alt=" Tierra de Nadie 4" />
-                <p>Disponible en breves</p>
+                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/3741979576949" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
     </entry>
