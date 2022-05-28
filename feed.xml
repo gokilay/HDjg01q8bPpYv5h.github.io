@@ -3,12 +3,84 @@
     <title>Supervivientes</title>
     <link href="https://supervivientes.ml/feed.xml" rel="self" />
     <link href="https://supervivientes.ml" />
-    <updated>2022-05-26T08:23:18+01:00</updated>
+    <updated>2022-05-28T09:13:45+01:00</updated>
     <author>
         <name>supervivientes</name>
     </author>
     <id>https://supervivientes.ml</id>
 
+    <entry>
+        <title> Gala 6 </title>
+        <author>
+            <name>supervivientes</name>
+        </author>
+        <link href="https://supervivientes.ml/supervivientes-gala-40_06541370-2.html"/>
+        <id>https://supervivientes.ml/supervivientes-gala-40_06541370-2.html</id>
+            <category term="Galas"/>
+
+        <updated>2022-05-28T09:12:01+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://supervivientes.ml/media/posts/269/269.jpg" alt=" Gala 6 " />
+                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/3746192558709" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title> Gala 6. Las nominaciones </title>
+        <author>
+            <name>supervivientes</name>
+        </author>
+        <link href="https://supervivientes.ml/supervivientes-gala-nominaciones-40_06542720-2.html"/>
+        <id>https://supervivientes.ml/supervivientes-gala-nominaciones-40_06542720-2.html</id>
+            <category term="Galas"/>
+
+        <updated>2022-05-28T09:12:15+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://supervivientes.ml/media/posts/270/270.jpg" alt=" Gala 6. Las nominaciones " />
+                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/3748733323893" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title> Resumen diario 24 </title>
+        <author>
+            <name>supervivientes</name>
+        </author>
+        <link href="https://supervivientes.ml/supervivientes-resumen-diario-40_06529275.html"/>
+        <id>https://supervivientes.ml/supervivientes-resumen-diario-40_06529275.html</id>
+            <category term="Resúmenes diarios"/>
+
+        <updated>2022-05-28T09:13:28+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://supervivientes.ml/media/posts/328/328.jpg" alt=" Resumen diario 24 " />
+                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/3744630311541" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title> Resumen diario 25 </title>
+        <author>
+            <name>supervivientes</name>
+        </author>
+        <link href="https://supervivientes.ml/supervivientes-resumen-diario-40_06558945.html"/>
+        <id>https://supervivientes.ml/supervivientes-resumen-diario-40_06558945.html</id>
+            <category term="Resúmenes diarios"/>
+
+        <updated>2022-05-28T09:13:45+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://supervivientes.ml/media/posts/329/329.jpg" alt=" Resumen diario 25 " />
+                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/3748923443829" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Infiltrados en Honduras 23</title>
         <author>
@@ -114,78 +186,6 @@
             <![CDATA[
                     <img src="https://supervivientes.ml/media/posts/250/supervivientes-2022-tierra-de-nadie-4_5328.webp" alt=" Tierra de Nadie 4" />
                 <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/3741979576949" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title> Gala 1 </title>
-        <author>
-            <name>supervivientes</name>
-        </author>
-        <link href="https://supervivientes.ml/gala-1-40_1009475575005.html"/>
-        <id>https://supervivientes.ml/gala-1-40_1009475575005.html</id>
-            <category term="Galas"/>
-
-        <updated>2022-05-22T16:00:50+01:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://supervivientes.ml/media/posts/2/2.jpg" alt=" Gala 1 " />
-                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/3660303436405" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title> Gala 2 </title>
-        <author>
-            <name>supervivientes</name>
-        </author>
-        <link href="https://supervivientes.ml/gala-2-40_1009486075017.html"/>
-        <id>https://supervivientes.ml/gala-2-40_1009486075017.html</id>
-            <category term="Galas"/>
-
-        <updated>2022-05-22T16:01:20+01:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://supervivientes.ml/media/posts/3/3.jpg" alt=" Gala 2 " />
-                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/3678512220789" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title> Gala 3 </title>
-        <author>
-            <name>supervivientes</name>
-        </author>
-        <link href="https://supervivientes.ml/gala-3-40_1009496575034.html"/>
-        <id>https://supervivientes.ml/gala-3-40_1009496575034.html</id>
-            <category term="Galas"/>
-
-        <updated>2022-05-22T16:01:42+01:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://supervivientes.ml/media/posts/4/4.jpg" alt=" Gala 3 " />
-                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/3695457536629" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title> Gala 4 </title>
-        <author>
-            <name>supervivientes</name>
-        </author>
-        <link href="https://supervivientes.ml/gala-4-40_1009507075031.html"/>
-        <id>https://supervivientes.ml/gala-4-40_1009507075031.html</id>
-            <category term="Galas"/>
-
-        <updated>2022-05-22T16:02:02+01:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://supervivientes.ml/media/posts/5/5.jpg" alt=" Gala 4 " />
-                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/3713011288693" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
     </entry>
