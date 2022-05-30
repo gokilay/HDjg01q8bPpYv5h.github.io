@@ -3,7 +3,7 @@
     <title>Supervivientes</title>
     <link href="https://supervivientes.ml/feed.xml" rel="self" />
     <link href="https://supervivientes.ml" />
-    <updated>2022-05-30T09:26:59+01:00</updated>
+    <updated>2022-05-30T20:24:09+01:00</updated>
     <author>
         <name>supervivientes</name>
     </author>
@@ -24,6 +24,48 @@
             <![CDATA[
                     <img src="https://supervivientes.ml/media/posts/330/330.jpg" alt=" Conexión Honduras 6 " />
                 <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/4299397663292" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title> Infiltrados en Honduras 26 </title>
+        <author>
+            <name>supervivientes</name>
+        </author>
+        <link href="https://supervivientes.ml/supervivientes-infiltrados-honduras-40_06577728.html"/>
+        <id>https://supervivientes.ml/supervivientes-infiltrados-honduras-40_06577728.html</id>
+            <category term="Infiltrados en Honduras"/>
+
+        <updated>2022-05-30T20:24:09+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://supervivientes.ml/media/posts/331/331.jpg" alt=" Infiltrados en Honduras 26 " />
+                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/3758542948981" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title> Resumen diario 26 </title>
+        <author>
+            <name>supervivientes</name>
+        </author>
+        <link href="https://supervivientes.ml/supervivientes-resumen-diario-40_06541381.html"/>
+        <id>https://supervivientes.ml/supervivientes-resumen-diario-40_06541381.html</id>
+            <category term="Resúmenes diarios"/>
+
+        <updated>2022-05-30T20:24:02+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://supervivientes.ml/media/posts/332/332.jpg" alt=" Resumen diario 26 " />
+                    Disponible en breves 30/05/2022
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://supervivientes.ml/media/posts/332/332.jpg" alt=" Resumen diario 26 " />
+                <h3>Disponible en breves</h3>
+<p><br>30/05/2022</p>
             ]]>
         </content>
     </entry>
@@ -150,42 +192,6 @@
             <![CDATA[
                     <img src="https://supervivientes.ml/media/posts/253/supervivientes-resumen-22-plus_5609.webp" alt=" Resumen diario 22" />
                 <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/3740018543221" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Infiltrados en Honduras 22</title>
-        <author>
-            <name>supervivientes</name>
-        </author>
-        <link href="https://supervivientes.ml/infiltrados-honduras-22.html"/>
-        <id>https://supervivientes.ml/infiltrados-honduras-22.html</id>
-            <category term="Infiltrados en Honduras"/>
-
-        <updated>2022-05-25T10:15:52+01:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://supervivientes.ml/media/posts/252/mitele2022-05-23-19h56m02s122_905d.webp" alt=" Infiltrados en Honduras 22" />
-                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/3739634502261" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Última hora 9</title>
-        <author>
-            <name>supervivientes</name>
-        </author>
-        <link href="https://supervivientes.ml/ultima-hora-9.html"/>
-        <id>https://supervivientes.ml/ultima-hora-9.html</id>
-            <category term="Última Hora"/>
-
-        <updated>2022-05-25T10:15:03+01:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://supervivientes.ml/media/posts/251/mitele2022-05-23-19h56m02s122_905d.webp" alt=" Última hora 9" />
-                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/3739418233461" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
     </entry>
