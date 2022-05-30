@@ -3,7 +3,7 @@
     <title>Supervivientes</title>
     <link href="https://supervivientes.ml/feed.xml" rel="self" />
     <link href="https://supervivientes.ml" />
-    <updated>2022-05-30T08:47:42+01:00</updated>
+    <updated>2022-05-30T09:26:59+01:00</updated>
     <author>
         <name>supervivientes</name>
     </author>
@@ -18,17 +18,12 @@
         <id>https://supervivientes.ml/supervivientes-conexion-honduras-40_06558873.html</id>
             <category term="Conexion Honduras"/>
 
-        <updated>2022-05-30T08:47:42+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://supervivientes.ml/media/posts/330/330.jpg" alt=" Conexión Honduras 6 " />
-                    Disponible en breves Un abandono voluntario y la evacuación de Tania
-                ]]>
-            </summary>
+        <updated>2022-05-30T09:26:59+01:00</updated>
+            <summary></summary>
         <content type="html">
             <![CDATA[
                     <img src="https://supervivientes.ml/media/posts/330/330.jpg" alt=" Conexión Honduras 6 " />
-                <h3>Disponible en breves</h3><br> Un abandono voluntario y la evacuación de Tania 
+                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/4299397663292" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
     </entry>
